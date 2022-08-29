@@ -1,0 +1,13 @@
+{
+  "JOHN": {
+    "Name": "John",
+    "Description": "The Dupe Without Hairstyle.",
+    "Gender": "Male",
+    "StressTrait": "Aggressive",
+    "JoyTrait": "HappySinger",
+    "HeadShape": 1,
+    "Eyes": 3,
+    "Hair": "hair_john",
+    "Body": 2,
+  }
+}

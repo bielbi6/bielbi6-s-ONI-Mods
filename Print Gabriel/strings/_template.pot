@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. GABRIEL.NAME
+msgctxt "GABRIEL.NAME"
+msgid "Gabriel"
+msgstr ""
+
+#. GABRIEL.DESCRIPTION
+msgctxt "GABRIEL.DESCRIPTION"
+msgid "likes space stuff and programming."
+msgstr ""

@@ -1,0 +1,14 @@
+{
+  "GABRIEL": {
+    "Name": "Gabriel",
+    "Description": "likes space stuff and programming.",
+    "Gender": "Male",
+    "StressTrait": "Aggressive",
+    "JoyTrait": "StickerBomber",
+    "HeadShape": 1,
+    "Eyes": 3,
+    "Hair": "hair_gabriel",
+    "Body": 1,
+  }
+}
+

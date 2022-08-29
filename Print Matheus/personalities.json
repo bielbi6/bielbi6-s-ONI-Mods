@@ -1,0 +1,14 @@
+{
+  "MATHEUS": {
+    "Name": "Matheus",
+    "Description": "likes horses.",
+    "Gender": "Male",
+    "StressTrait": "Aggressive",
+    "JoyTrait": "StickerBomber",
+    "HeadShape": 1,
+    "Eyes": 1,
+    "Hair": "hair_matheus",
+    "Body": 3,
+  }
+}
+

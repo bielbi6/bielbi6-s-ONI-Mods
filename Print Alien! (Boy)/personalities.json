@@ -1,0 +1,14 @@
+{
+  "CASSIDY": {
+    "Printable": true,
+    "Name": "Kimon",
+    "Description": "This {0} understand the universe and the earth destroyed.",
+    "Gender": "Male",
+    "StressTrait": "Aggressive",
+    "JoyTrait": "BalloonArtist",
+    "HeadShape": "4",
+    "Eyes": "3",
+    "Hair": "hair_alien",
+    "Body": "2"
+  }
+}

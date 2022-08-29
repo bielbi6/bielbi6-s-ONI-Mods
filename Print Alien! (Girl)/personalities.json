@@ -1,0 +1,15 @@
+{
+  "CASSIDY": {
+    "Printable": true,
+    "Name": "Alexa",
+    "Description": "This {0} understand the universe and the earth destroyed.",
+    "Gender": "Female",
+    "StressTrait": "Aggressive",
+    "JoyTrait": "BalloonArtist",
+    "HeadShape": "3",
+    "Eyes": "2",
+    "Hair": "hair_alien",
+    "Body": "1"
+  }
+}
+
